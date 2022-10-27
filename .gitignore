@@ -1,0 +1,9 @@
+# Default ignored files
+/live_coding.iws
+*.iws
+*.ipr
+/.idea
+/target
+
+# Project exclude paths
+/out/
